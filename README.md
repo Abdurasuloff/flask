@@ -35,7 +35,7 @@ pip install flask, flask-sqlalchemy, flask-login
 
 3. Repositoryni import qilish
 
-$ git clone https://github.com/Abdurasuloff/flask-start.git
+$ git clone https://github.com/Abdurasuloff/flask.git
 
 4. Serverni ishga tushurish.
 muhit ichida:  
