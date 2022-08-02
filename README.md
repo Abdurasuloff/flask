@@ -32,3 +32,7 @@ Windows:
 .flask-login login logout tizimi uchun
 
 pip install flask, flask-sqlalchemy, flask-login
+
+3. Repositoryni import qilish
+
+$ git clone https://github.com/Abdurasuloff/flask-start.git
